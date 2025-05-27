@@ -143,12 +143,6 @@ Para trabalhos futuros, sugerimos a implementação de algoritmos para detecçã
 
 ## 5. Contribuições dos Membros do Grupo
 
-* **Membro 1** : Implementação do TAD para grafos e funções básicas
-* **Membro 2** : Implementação dos algoritmos de análise (componentes conexas e caminhos mínimos)
-* **Membro 3** : Leitura e processamento dos dados da rede social dos golfinhos
-* **Membro 4** : Análise dos resultados e elaboração do relatório
-* **Membro 5** : Testes, depuração e otimização do código
-
 ## 6. Referências
 
 1. Network Repository. "MAMMALIA-DOLPHIN-FLORIDA-SOCIAL". Disponível em: https://networkrepository.com/mammalia-dolphin-florida-social.php
